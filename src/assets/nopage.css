@@ -1,0 +1,10 @@
+.noPageContainer{
+text-align: center;
+
+}
+.noPage{
+    color: #FFFFFF;
+    font-family: 'Century gothic';
+    font-weight: bold;
+    font-size: 100px;
+}

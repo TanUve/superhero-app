@@ -1,0 +1,13 @@
+.headersContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    margin: 20px 40px;
+    font-family: "Century gothic";
+    font-size: 100px;
+    font-weight: bold;
+    text-shadow: 0 0 5px rgb(216, 255, 247), 0 0 10px rgb(186, 218, 255), 0 0 15px rgb(140, 222, 255), 0 0 10px #18a3ff, 0 0 30px #5218ff, 0 0 40px #1818ff, 0 0 55px #2f18ff, 0 0 75px #7c18ff;
+    color: #232323;
+    cursor: pointer;
+}

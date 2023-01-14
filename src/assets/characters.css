@@ -1,0 +1,57 @@
+.characterContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    color: #FFFFFF;
+}
+
+.characters {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 0 30px;
+}
+
+
+
+.character {
+    margin: 30px 0px;
+    padding: 10px 0px;
+    width: 370px;
+    height: 450;
+    box-shadow: inset 0px 0px 15px 3px #23395e;
+    text-align: center;
+}
+
+
+
+.btns {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.deleteBtn {
+    margin: 5px 0 5px 260px;
+    cursor: pointer;
+
+}
+
+.modifyBtn {
+    margin: 5px 0 5px 0;
+    cursor: pointer;
+}
+
+.superImg {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    object-position:top;
+    margin-top: 5px;
+    margin-bottom: 7px;
+
+}

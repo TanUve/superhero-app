@@ -1,0 +1,56 @@
+.characterDetails {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 50px 40px 0 250px;
+    font-family: 'Century Gothic';
+
+}
+
+.characterDetails img {
+    margin-right: 30px;
+    margin-left: 40px;
+    width: 400px;
+}
+
+.imgDetails p {
+    color: #FFFFFF;
+    font-size: 55px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 650px;
+    padding: 100px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    color: #FFFFFF;
+    font-size: 20px;
+    box-shadow: inset 0px 0px 15px 3px #23395e;
+    border-radius: 15px;
+    border: 1px solid #1f2f47;
+    font-family: 'Century Gothic';
+    font-weight: bold;
+    text-shadow: 0px 1px 0px #263666;
+
+}
+.patchBtn{
+    margin: 15px 30px 0 30px;
+    padding: 10px;
+    box-shadow: inset 0px 0px 15px 3px #23395e;
+    background-color: transparent;
+    border-radius: 15px;
+    border:1px solid #1f2f47;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: 'Century Gothic';
+    font-weight: bold;
+    font-size: 15px;
+    text-shadow:0px 1px 0px #263666;
+    align-self: center;
+
+}
+
